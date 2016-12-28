@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.shuhan.chess.MainActivity">
+    <item
+        android:id="@+id/newGame"
+        android:orderInCategory="100"
+        android:title="New Game"/>
+
+    <item
+        android:id="@+id/saveGame"
+        android:orderInCategory="100"
+        android:title="Save"/>
+
+    <item
+        android:id="@+id/loadGame"
+        android:orderInCategory="100"
+        android:title="Load"/>
+
+    <item
+        android:id="@+id/drawB"
+        android:orderInCategory="100"
+        android:title="Draw"/>
+
+    <item
+        android:id="@+id/resignB"
+        android:orderInCategory="100"
+        android:title="Resign"/>
+
+    <item
+        android:id="@+id/undoB"
+        android:orderInCategory="100"
+        android:title="undo"/>
+
+    <item
+        android:id="@+id/exitGame"
+        android:orderInCategory="100"
+        android:title="EXIT"/>
+
+
+
+</menu>
