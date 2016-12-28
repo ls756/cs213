@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="120.0" prefWidth="300.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.65">
+   <children>
+      <Label layoutX="20.0" layoutY="14.0" prefHeight="31.0" prefWidth="59.0" text="Error!" />
+      <Label layoutX="20.0" layoutY="60.0" prefHeight="15.0" prefWidth="267.0" text="You need to select one item before delete." />
+   </children>
+</AnchorPane>
